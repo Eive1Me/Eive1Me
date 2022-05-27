@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, welcome to Eva's profile!
 
-<!--
-**Eive1Me/Eive1Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/code-java-blue) ![PostrgeSQL](https://img.shields.io/badge/db-postgresql-blue) 
+---
 
-Here are some ideas to get you started:
+### Here's my stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Eiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=eive1me)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Here's some personal info about me!
+
+```json
+{
+    "name" : "Eiva",
+    "occupation" : "Student",
+    "Age" : "21",
+    "Experience" : "Literally none",
+    "Aspiration" : "C O D E"
+}
+```
+
+---
+
+### Thank you for stopping by! :)
