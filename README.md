@@ -17,7 +17,7 @@
     "occupation" : "Student",
     "Age" : "21",
     "Experience" : "Literally none",
-    "Aspiration" : "C O D E"
+    "Aspiration" : "C R I N G"
 }
 ```
 
