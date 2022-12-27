@@ -10,7 +10,7 @@
 
 ### Here's my stats
 
-[![Eiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=eive1me)](https://github.com/anuraghazra/github-readme-stats)
+[![Eiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=eive1me&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
