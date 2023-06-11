@@ -21,7 +21,7 @@
     "name" : "Eiva",
     "occupation" : "Student",
     "Age" : "22",
-    "Experience" : "Literally none? But I really want it",
+    "Experience" : "Currently I've been a yandex intern for 2 months, hope I'll get the job :)",
     "Aspiration" : "Money"
 }
 ```
