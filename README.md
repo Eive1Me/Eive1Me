@@ -19,9 +19,9 @@
 ```json
 {
     "name" : "Eiva",
-    "occupation" : "Student",
+    "occupation" : "Junior scala-developer",
     "Age" : "22",
-    "Experience" : "Currently I've been a yandex intern for 2 months, hope I'll get the job :)",
+    "Experience" : "I finished Yandex intership and now work as a junior developer :)",
     "Aspiration" : "Money"
 }
 ```
